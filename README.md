@@ -1,6 +1,6 @@
 # 🛒 Instacart Lakehouse Analytics
 
-A Medallion Architecture (Bronze → Silver → Gold) data pipeline built with **PySpark** and **Delta Lake**, analyzing the [Instacart Market Basket](https://www.kaggle.com/c/instacart-market-basket-analysis) dataset to uncover purchasing patterns, top products, and department-level reorder behavior.
+A Medallion Architecture (Bronze → Silver → Gold) data pipeline built with **PySpark** and **Delta Lake**, analyzing the [Instacart Market Basket](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis/data?utm_source=chatgpt.com) dataset to uncover purchasing patterns, top products, and department-level reorder behavior.
 
 ## 📐 Architecture
 
