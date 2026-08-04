@@ -36,8 +36,7 @@ instacart-lakehouse-analytics/
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
-├── notebooks/
-│   └── instacart_lakehouse_analytics.ipynb
+├── instacart_lakehouse_analytics.ipynb
 
 ```
 
